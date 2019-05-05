@@ -1,0 +1,13 @@
+C:\Users\Hong Hanh\Desktop\QuanLyNhaHang1\QuanLyNhaHang1\obj\Debug\QuanLyNhaHang1.csprojAssemblyReference.cache
+C:\Users\Hong Hanh\Desktop\QuanLyNhaHang1\QuanLyNhaHang1\obj\Debug\QuanLyNhaHang1.fLogin.resources
+C:\Users\Hong Hanh\Desktop\QuanLyNhaHang1\QuanLyNhaHang1\obj\Debug\QuanLyNhaHang1.Properties.Resources.resources
+C:\Users\Hong Hanh\Desktop\QuanLyNhaHang1\QuanLyNhaHang1\obj\Debug\QuanLyNhaHang1.csproj.GenerateResource.cache
+C:\Users\Hong Hanh\Desktop\QuanLyNhaHang1\QuanLyNhaHang1\obj\Debug\QuanLyNhaHang1.csproj.CoreCompileInputs.cache
+C:\Users\Hong Hanh\Desktop\QuanLyNhaHang1\QuanLyNhaHang1\bin\Debug\QuanLyNhaHang1.exe.config
+C:\Users\Hong Hanh\Desktop\QuanLyNhaHang1\QuanLyNhaHang1\bin\Debug\QuanLyNhaHang1.exe
+C:\Users\Hong Hanh\Desktop\QuanLyNhaHang1\QuanLyNhaHang1\bin\Debug\QuanLyNhaHang1.pdb
+C:\Users\Hong Hanh\Desktop\QuanLyNhaHang1\QuanLyNhaHang1\obj\Debug\QuanLyNhaHang1.exe
+C:\Users\Hong Hanh\Desktop\QuanLyNhaHang1\QuanLyNhaHang1\obj\Debug\QuanLyNhaHang1.pdb
+C:\Users\Hong Hanh\Desktop\QuanLyNhaHang1\QuanLyNhaHang1\obj\Debug\QuanLyNhaHang1.ThongTinCaNhan.resources
+C:\Users\Hong Hanh\Desktop\QuanLyNhaHang1\QuanLyNhaHang1\obj\Debug\QuanLyNhaHang1.GiaoDienChinh.resources
+C:\Users\Hong Hanh\Desktop\QuanLyNhaHang1\QuanLyNhaHang1\obj\Debug\QuanLyNhaHang1.fAdmin.resources
